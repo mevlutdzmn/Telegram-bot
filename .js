@@ -3,7 +3,7 @@ const { Telegraf } = require('telegraf');
 const parseString = require('xml2js').parseString;
 
 // Telegram botunuzun token'ını buraya ekleyin
-const TOKEN = "6905538033:AAGVgLdkIn7zwuU5DUG7Gdia6SiAWpPB7SI";
+const TOKEN = "Token";
 
 // TCMB XML endpoint'i
 const XML_URL = "https://www.tcmb.gov.tr/kurlar/today.xml";

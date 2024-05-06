@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const { Telegraf } = require('telegraf');
 
 // Telegram botunuzun token'ını buraya ekleyin
-const TOKEN = "6905538033:AAGVgLdkIn7zwuU5DUG7Gdia6SiAWpPB7SI";
+const TOKEN = "Token";
 
 // CoinCap API endpoint'i
 const API_URL = "https://api.coincap.io/v2/assets";
